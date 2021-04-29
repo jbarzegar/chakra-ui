@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.0.26
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/react@1.6.1
+  - @chakra-ui/styled-system@1.10.5
+
 ## 1.0.25
 
 ### Patch Changes

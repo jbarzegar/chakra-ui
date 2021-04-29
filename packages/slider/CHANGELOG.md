@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.2.5
+
+### Patch Changes
+
+- [`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - - Fix issue where
+  `onChangeStart` doesnt get called
+  - Fix issue where slider thumb remains tabbable when `isDisabled={true}`
+  - Fix issue where `onChangeEnd` doesn't get called when you click anywhere on
+    the track
+- Updated dependencies
+  [[`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01),
+  [`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01)]:
+  - @chakra-ui/utils@1.7.1
+  - @chakra-ui/hooks@1.5.2
+
 ## 1.2.4
 
 ### Patch Changes

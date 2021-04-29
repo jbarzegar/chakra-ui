@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.7.1
+
+### Patch Changes
+
+- [`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - `PanSession` class
+
+  - Add velocity data to pointer pan event
+  - Add `onSessionStart` to pan event handlers
+
 ## 1.7.0
 
 ### Minor Changes

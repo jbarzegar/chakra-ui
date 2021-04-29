@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.5.2
+
+### Patch Changes
+
+- [`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - - `usePanGesture`:
+  Add `onPanSessionEnd` to pan event handlers and mark as internal
+  - `useDimensions`: Remove `ref` from effect dependency list
+- Updated dependencies
+  [[`d0f50a46e`](https://github.com/chakra-ui/chakra-ui/commit/d0f50a46ea6c2bcf06d8cad8b9b3994fd934be01)]:
+  - @chakra-ui/utils@1.7.1
+
 ## 1.5.1
 
 ### Patch Changes
