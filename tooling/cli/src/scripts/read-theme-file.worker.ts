@@ -9,6 +9,7 @@ async function readTheme(themeFilePath: string) {
   const absoluteThemePath = path.join(process.cwd(), themeFilePath)
   register({
     project: path.join(__dirname, "..", "..", "bin", "tsconfig.json"),
+    require: ["tsconfig-paths/register"],
     dir: path.basename(absoluteThemePath),
   })
   const module = await import(absoluteThemePath)
